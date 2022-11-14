@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    justify-items: center;
+    background-color: rgb(229, 248, 248);
+}
+.videos{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    margin: 2px;
+    max-width: 645px;
+    display: grid;
+    justify-items: center;
+    border: 2px solid rgb(68, 68, 68);
+    border-radius: 10px;
+    background-color: rgb(212, 212, 212);
+}
